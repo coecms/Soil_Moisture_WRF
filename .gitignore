@@ -1,0 +1,5 @@
+*.mod
+*.F90
+*.o
+Soil_Moisture
+Soil_Moisture.WRF
